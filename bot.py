@@ -28,3 +28,5 @@ class Bot(Client):
 
 bot = Bot()
 bot.run()
+
+# [Nikz]
